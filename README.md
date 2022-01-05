@@ -14,6 +14,7 @@ Anggota Team:
 <p>
 <h3>Deskripsi singkat Project</h3>
 --menjelaskan project toko online--
+ Toko Online kami merupakan sebuah toko yang menyediakan peralatan bayi, make up,fashion perempuan, fashion laki-laki, dan alat electonik. Kami menyediakan layanan toko melalui media sosial seperti  instagram, facebook, dan WhatsApp.
 
 <h3>Pembagian job</h3>
 <ol>
